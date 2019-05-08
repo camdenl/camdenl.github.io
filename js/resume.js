@@ -36,7 +36,7 @@ $(function () {
     $('#custom-county-ex').click(function () {
         $.fancybox.open([
             {
-                src: 'vid/KIDS COUNT GA Custom County Profiles.mp4'
+                src: 'https://youtu.be/bXWP8gN2FYQ'
 
 	}
 ], {

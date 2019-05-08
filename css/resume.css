@@ -205,5 +205,22 @@ a:active {
 }
 
 .flickr-cont {
-    max-width: 700px;
+    width: 700px;
+    max-width: 100%;
+}
+
+@media (max-width: 576px) {
+    .card-columns {
+        column-count: 1;
+    }
+}
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+#indic-explorer-img {
+    max-width: 449px;
 }
