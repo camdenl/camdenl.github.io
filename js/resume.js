@@ -36,7 +36,7 @@ $(function () {
     $('#custom-county-ex').click(function () {
         $.fancybox.open([
             {
-                src: 'https://youtu.be/bXWP8gN2FYQ'
+                src: 'https://youtu.be/dUDsEwVGqe0'
 
 	}
 ], {
